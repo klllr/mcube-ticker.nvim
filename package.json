@@ -1,0 +1,19 @@
+{
+  "name": "vim-ticker",
+  "version": "1.0.0",
+  "main": "rplugin/node/vim-ticker/main.js",
+  "scripts": {},
+  "author": "mk",
+  "license": "GPL-3.0",
+  "description": "",
+  "dependencies": {
+    "neovim": "^4.10.0",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "@types/uuid": "^8.3.0",
+    "@types/ws": "^7.4.2"
+  }
+}
